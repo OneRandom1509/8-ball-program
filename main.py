@@ -1,6 +1,5 @@
 from random import randrange
 import time
-from time import sleep
 number=1
 while number<=1000:
     a=str(input("Welcome to the 8-ball-program \nEnter your question\n"))
